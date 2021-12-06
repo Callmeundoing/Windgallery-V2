@@ -1,0 +1,86 @@
+h1 {
+    text-align: center;
+    font-size: 50px;
+}
+
+h2 {
+    text-align: center;
+    font-size: 30px;
+}
+
+h3 {
+    text-align: center;
+    font-size: 30px;
+}
+
+h4 {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+
+h5 {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+}
+
+
+p {
+    text-align: center;
+    font-size: 30px;
+}
+
+img {
+        width: 450;
+        border: 5px solid rgb(10, 0, 153);
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        }
+
+
+        img {
+            border: 5px solid #555;
+          }
+
+
+
+
+
+
+
+
+
+
+          /* The navigation bar */
+.navbar {
+    overflow: hidden;
+    background-color: #333;
+   
+    top: 0; 
+    width: 100%; 
+  }
+  
+  /* Links inside the navbar */
+  .navbar a {
+    float: left;
+    display: block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  
+  /* Change background on mouse-over */
+  .navbar a:hover {
+    background: #ddd;
+    color: black;
+  }
+  
+  /* Main content */
+  .main {
+    margin-top: 30px; /* Add a top margin to avoid content overlay */
+  }
+
